@@ -1,0 +1,5 @@
+{
+    "name": "Sure Petcare",
+    "domains": ["sensor", "binary_sensor"],
+    "render_readme": true
+}
